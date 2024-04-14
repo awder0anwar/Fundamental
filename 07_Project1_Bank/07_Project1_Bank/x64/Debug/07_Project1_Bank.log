@@ -1,0 +1,4 @@
+﻿  07_Project1_Bank.cpp
+C:\Users\pc\source\repos\07_Project1_Bank\07_Project1_Bank\07_Project1_Bank.cpp(30,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\pc\source\repos\07_Project1_Bank\07_Project1_Bank\07_Project1_Bank.cpp(330,1): warning C4715: 'UpdateclientByAccountNum': not all control paths return a value
+  07_Project1_Bank.vcxproj -> C:\Users\pc\source\repos\07_Project1_Bank\x64\Debug\07_Project1_Bank.exe
